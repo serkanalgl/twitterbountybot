@@ -8,7 +8,7 @@
 
 ## How to run
 
-  Create a new app on twitter. Update the below parameters in config.js
+  Create a new app on twitter https://apps.twitter.com/app/new. Update the below parameters in config.js
 
     * consumer_key
     * consumer_secret
