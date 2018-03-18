@@ -9,11 +9,11 @@
  * access_token_secret
  */
 module.exports = {
-    consumer_key: 'VMWXnerGISybmN0KpYKH1ngEA',
-    consumer_secret: 'tWZmJORXxz9wCDUh3NZ8OSwdpIstzEeHbNwZGUJQmzBweKtcFS',
-    access_token: '552151879-KvwgXSeiuw5lDjLEi9tgVQ4Z7KMLYXzHMaAqG2qG',
-    access_token_secret: 'RstgTSiMeyyr8U4OLYV7ZONUloHIFkyPmyxkFxWo3cYxI',
+    consumer_key: '',
+    consumer_secret: '',
+    access_token: '',
+    access_token_secret: '',
 
-    my_twitter_account: 'alglserkan',
-    twitter_accounts:['BittwattPteLtd','airpod_project','SwapyNetwork','EuropeanCryptoB','ishookinc','GymRewards', 'WealthE_Coin', 'coolcousinco', 'dbrainio', 'bitcoinus_io']
+    my_twitter_account: '',
+    twitter_accounts:['twitter_1','twitter_2']
 }
