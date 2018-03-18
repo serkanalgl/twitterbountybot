@@ -1,0 +1,11 @@
+{
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "moment": "^2.21.0",
+    "twit": "2.2.9",
+    "underscore": "1.8.3"
+  }
+}
