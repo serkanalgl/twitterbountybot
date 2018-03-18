@@ -1,4 +1,4 @@
-# Twitter bot for retweet once a day
+# Hi! I'm twitter bot. I've created for retweet once a day by my master. I'm so happy to help you about the crypto bounties.
 
 ## System requirement
 
